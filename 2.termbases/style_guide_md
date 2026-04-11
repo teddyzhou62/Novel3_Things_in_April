@@ -1,4 +1,4 @@
-DEFINITIVE EN LOCALIZATION INSTRUCTION (API STYLE GUIDE) — v1
+DEFINITIVE EN LOCALIZATION INSTRUCTION (API STYLE GUIDE) — v1.1
 
 Project Title (EN Working Title): April Affairs
 Genre Promise: Suspense Romance / Urban Thriller with geopolitical danger and moral ambiguity
@@ -41,88 +41,80 @@ Preferred emotional delivery pattern: physical reaction → implication → sile
 Use actions, micro-reactions, and withheld answers to carry tension.
 
 8) CHARACTER VOICE LOCKS (HARD RULES)
-8.1 Protagonist viewpoint voice: Wei Lai (ace private bodyguard)
+8.1 Protagonist viewpoint voice: Wei Lai
 
 Traits: controlled, hyper-observant, tactical, protective but not sentimental.
-Voice rules:
+Voice rules: operational narration; restraint over sentiment; evaluate risk without romanticizing violence.
+Preferred verbs: assess, track, steady, angle, cover, signal, calculate, tighten, check, watch, intercept, hold.
+Dialogue cadence: short, functional lines; boundary-setting; questions that test.
 
-Narration is operational: threats, angles, exits, timing, leverage.
-Emotion appears as muscle memory and restraint, not declarations.
-He does not romanticize violence; he evaluates it.
-
-Preferred verbs (use often): assess, track, steady, angle, cover, signal, calculate, tighten, check, watch, intercept, hold.
-
-Dialogue cadence: short, functional lines; questions that test; statements that set boundaries.
-
-8.2 Major counterpart: Cen Jin (famous commentator; moral mystery core)
+8.2 Major counterpart: Cen Jin
 
 Traits: composed, guarded, intelligent, morally unreadable.
-Voice rules:
-
-She speaks with precision and controlled tone.
-She deflects with facts, timing, and silence.
-When emotion breaks through, it is minimal and costly.
-
+Voice rules: precision, deflection by timing and silence, minimal emotion.
 Preferred verbs: measure, deflect, weigh, hold, pause, choose, admit, refuse, note, endure, insist.
-
 Dialogue cadence: fewer words than expected; answers that create new questions.
 
 8.3 Antagonistic pressure (pirates / negotiators / handlers / armed threats)
 
 Traits: predatory, pragmatic, opportunistic.
-Voice rules:
-
-Threats are transactional: demand, terms, consequences.
-No cartoon villain speeches.
-Power is shown through control of time, information, and violence.
-
+Voice rules: transactional threats, no speeches, power through time/info/violence control.
 Preferred verbs: demand, stall, corner, press, warn, claim, seize, delay, offer, retract.
 
 9) DIALOGUE & RHYTHM MECHANICS (HARD RULES)
 New speaker = new paragraph.
 Use em dashes (—) for interruption/cutoff.
 Use ellipses (…) only for hesitation; use rarely.
-Subtext is mandatory: show dominance via timing, refusal to answer, conditional answers, and reframing.
-Remove repetitive honorific/address spam unless it changes power dynamics or is plot-relevant.
-Dialogue must read as spoken English: concise, pointed, and situation-anchored.
+Subtext is mandatory: show dominance via timing, refusal, conditional answers, reframing.
+Remove repetitive address spam unless power/etiquette changes.
+Dialogue must read as spoken English: concise, pointed, situation-anchored.
 10) SENTENCE RHYTHM & PACING (HARD RULES)
-Use short-to-medium sentences. Break long Chinese sentences.
-One beat per paragraph wherever possible (one action / reaction / inference / decision).
+Short-to-medium sentences; break long Chinese sentences.
+One beat per paragraph wherever possible.
 Use occasional single-line paragraphs for impact (reveal, threat, realization, hook).
-Preserve suspense momentum using this dopamine sequence (hybrid thriller + mystery):
-observation → contradiction → inference → threat → reversal → hook.
-Keep negotiation scenes sharp: terms, leverage, and stakes remain clear at all times.
+Suspense sequence (must hold): observation → contradiction → inference → threat → reversal → hook.
+Negotiation scenes remain clear: terms, leverage, and stakes are always readable.
 11) GLOSSARY CONTROL (HARD RULES)
-The glossary is absolute; do not create alternative translations for glossary terms.
-If a term is not in the glossary: translate it once naturally and keep it consistent within the chapter.
-Do not create competing variants for the same term.
-Names follow glossary first; otherwise use consistent romanization without inventing Western names.
+Glossary is absolute; no alternative translations for glossary terms.
+If term not in glossary: translate once naturally and keep consistent within chapter.
+No competing variants.
+Names follow glossary first; otherwise consistent romanization; do not invent Western names.
 12) CULTURAL LOCALIZATION RULES (HARD RULES)
-Translate idioms by meaning, not literal wording.
-Remove cultural friction that breaks immersion while preserving setting authenticity.
-Avoid footnotes and bracketed explanations.
-Keep geopolitical and humanitarian context readable and concrete; do not inflate into documentary exposition.
+Idioms by meaning, not literal.
+Remove cultural friction that breaks immersion while preserving authenticity.
+No footnotes or bracketed explanations.
+Geopolitical/humanitarian context stays concrete and restrained; no documentary exposition.
 13) SAFETY & PLATFORM QA (HARD RULES)
+13.1 Standard safety rules
 No real-world targeted hate rhetoric or propaganda; preserve conflict without endorsing ideology.
 No sexual content involving minors or ambiguous age.
-Violence remains direct and readable; do not fetishize brutality.
+Violence is direct and readable; do not fetishize brutality.
 Genocide/mass-violence references must be handled with restraint and clarity; do not sensationalize.
 If any content violates these rules, rewrite minimally to preserve plot function and character intent.
+13.2 Fictional atrocity / “fake history” sensitivity rules (HARD RULES)
+
+These rules apply to events like “卡隆屠杀” and any atrocity modeled on real-world history:
+
+Treat the event as in-universe. Do not present it as a statement of real history.
+Do not introduce real country names, real leaders, real dates, or direct identifiers that collapse the fiction into an accusation about real people.
+Do not assign blame to real-world protected groups (ethnicity, nationality, religion). Keep group labels fictional, neutral, and specific (e.g., “militia,” “regime forces,” “insurgents”) and avoid generalizations.
+Avoid propaganda framing. Attribute contested claims to sources in-story (“official account,” “witnesses,” “her report,” “rumors”) when the original is ambiguous.
+Do not sensationalize. Describe atrocities with clinical restraint: enough to understand stakes and trauma, never lingering for shock value.
+Avoid loaded “cleansing/purification” phrasing in an ethnic context. Translate into neutral operational language (“purge,” “round-up,” “mass arrest,” “slaughter,” “mass killing”) according to meaning.
+Use legally heavy labels (“genocide”) only when the source clearly supports systematic extermination of a group; otherwise use “massacre,” “atrocity,” or “mass killing” consistently.
 14) LOCALIZATION INTENSITY LEVELS (HARD RULES)
 LEVEL 1 — CLEAN TRANSLATION
-Correct grammar and produce natural English flow.
-Preserve structure where possible.
-Remove only obvious redundancy.
+
+Grammar + natural flow; preserve structure; remove only obvious redundancy.
+
 LEVEL 2 — GENRE LOCALIZATION (DEFAULT)
-Apply the North Star Rule aggressively to tighten tension.
-Sharpen dialogue and subtext.
-Keep clues clean, sequencing clear, and hooks strong.
-Do not add new content; only compress and clarify.
+
+Tighten tension; sharpen dialogue/subtext; keep clues clean and hooks strong; do not add content.
+
 LEVEL 3 — MARKET ADAPTATION
-Condense harder while preserving every plot fact and clue.
-Make threats colder, reversals cleaner, and scene endings sharper.
-Reduce internal monologue to decision-changing lines only.
-Maintain moral ambiguity; do not “explain” characters.
+
+Condense harder while preserving every plot fact and clue; colder threats, cleaner reversals; minimal internal monologue; maintain moral ambiguity.
+
 15) FINAL QUALITY GATE (MUST PASS)
 
 Before outputting, ensure all answers are “yes”:
@@ -132,6 +124,7 @@ Is the suspense chain intact (observation → contradiction → inference → th
 Does the English stay restrained, avoiding melodrama while still feeling intense?
 Are Wei Lai and Cen Jin distinct in voice, with power shown through timing and choice?
 Are glossary terms enforced with zero drift?
+For any fictional atrocity references: is the framing clearly in-universe, non-propagandistic, non-sensational, and non-identifying toward real-world groups?
 16) FINAL OUTPUT FORMAT (HARD RULES)
 Output only the English chapter text.
 No headings, no chapter labels, no extra sections.
